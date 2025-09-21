@@ -1,18 +1,16 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "name": "Theory of Continuity",
+    "author": "Squeeg",
+    "creators": ["Squeeg", "Realtoreeeeee", "hypersonic_time", "Gabe",],
+    "verifier": "Captainfireball",
+    "verification": "https://www.youtube.com/watch?v=YduNXjgiUeI",
+    "percentToQualify": 60,
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            "user": "PlayerEpic86",
+            "percent": 41,
+            "hz": 30
         }
     ]
 }
