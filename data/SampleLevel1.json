@@ -1,15 +1,15 @@
 {
-    "id": 1005303497,
-    "name": "Theory of Continuity",
-    "author": "Squeeg",
-    "creators": ["Squeeg", "Realtoreeeeee", "hypersonic_time", "Gabe"],
-    "verifier": "Captainfireball",
-    "verification": "https://www.youtube.com/watch?v=YduNXjgiUeI",
-    "percentToQualify": 60,
+    "id": 1075920227,
+    "name": "Deaf Launch",
+    "author": "LegoScratchTanksuber",
+    "creators": ["LegoScratchTankSuber", "Realtoreeeeee"],
+    "verifier": "Realtoreeeeee",
+    "verification": "https://www.youtube.com/watch?v=0gNed2NUN7M",
+    "percentToQualify": 100,
     "records": [
         {
-            "user": "PlayerEpic86",
-            "percent": 41,
+            "user": "Squeeg",
+            "percent": 100,
             "hz": 30
         }
     ]
