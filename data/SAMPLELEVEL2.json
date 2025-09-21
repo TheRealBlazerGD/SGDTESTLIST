@@ -10,17 +10,15 @@
         {
             "user": "Realtoreeeeee",
             "percent": 100,
-            "hz": 30
-        }
-        {
+            "hz": 30,
+    
             "user": "Squeeg",
             "percent": 100,
-            "hz": 30
-        }
-        {
+            "hz": 30,
+
             "user": "BLJ_BrokenGD",
             "percent": 98,
-            "hz": 30
+            "hz": 30,
         }
     ]
 }
